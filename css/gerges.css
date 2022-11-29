@@ -118,7 +118,7 @@
     background-color: #f6f6f6;
     position: absolute;
     right: 0;
-    
+    min-width: 200px;
     top: calc(100% + 15px);
     display: none;
     z-index: 1;
