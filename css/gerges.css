@@ -191,4 +191,6 @@
     padding: 20px;
     text-align: center;
   }
-
+  .features .feat i {
+    color: var(--main-color);
+  }
