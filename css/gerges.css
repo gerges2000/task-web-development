@@ -79,6 +79,7 @@
     justify-content: space-between;
     align-items: center;
   }
+  /* Logo size */
   .header .logo {
     width: 60px;
   }
