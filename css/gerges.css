@@ -149,3 +149,8 @@
     border-bottom: 1px solid #ddd;
   }
   /* End Header */
+
+  landing {
+    background-image: url(../images/landing.jpg);
+    
+  }
