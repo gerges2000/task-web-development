@@ -225,3 +225,6 @@
       text-align: center;
     }
   }
+  .services .services-content .srv i {
+    color: var(--main-color);
+  }
