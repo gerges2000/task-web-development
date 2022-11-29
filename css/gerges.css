@@ -73,3 +73,9 @@
         /* Margin */
         padding: 20px;
       }
+      /* Distance from logo and icon And make them on the same level */
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
