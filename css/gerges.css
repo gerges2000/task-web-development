@@ -45,3 +45,5 @@
   }
    /* End Global Rules */
   /* Start Components */
+  special-heading {
+    font-size: 20px; }
